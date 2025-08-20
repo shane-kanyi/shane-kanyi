@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Shane Kanyi Mushtaq
 
 ## 🚀 About Me
-I'm a motivated and driven Technical Presales Engineer and Solutions Architect with a passion for computer networking, programming, and business solutions. I'm currently pursuing my Bachelor's in Business Information Technology at Strathmore University and gaining hands-on experience at Red Dot Distribution.
+I'm a motivated and driven Technical Presales Engineer and Solutions Architect with a passion for computer networking, programming, and business solutions. I have a Bachelor's in Business Information Technology from Strathmore University and gaining hands-on experience at Red Dot Distribution.
 
 *   🔭 I’m currently working on developing my skills in cloud technologies, particularly Azure and AWS.
 *   👯 I’m looking to collaborate on projects involving cloud solutions, automation, and full-stack development.
@@ -11,8 +11,8 @@ I'm a motivated and driven Technical Presales Engineer and Solutions Architect w
 
 ### Technical Skills
 *   **Programming Languages:** PHP, Java, Python, SQL, Kotlin, JavaScript
-*   **Cloud & DevOps:** Azure, AWS, Terraform, Git
-*   **Networking:** Packet Tracer
+*   **Cloud & DevOps:** Azure, AWS, Terraform, Git, Docker, Github Actions
+*   **Networking:** Packet Tracer, Wireshark
 
 ### Soft Skills
 *   Effective Communication
@@ -38,8 +38,8 @@ I'm a motivated and driven Technical Presales Engineer and Solutions Architect w
 Here are some of the projects I've been working on:
 
 *   **[su_feeds](https://github.com/shane-kanyi/su_feeds):** A Java-based project.
-*   **[study-buddy](https://github.com/shane-kanyi/study-buddy):** A JavaScript-based project.
-*   **[simple-ecommerce](https://github.com/shane-kanyi/simple-ecommerce):** An HCL-based project.
+*   **[study-buddy](https://github.com/shane-kanyi/study-buddy):** A Laravel-based project.
+*   **[simple-ecommerce](https://github.com/shane-kanyi/simple-ecommerce):** A NodeJS-based project.
 *   **[performance-evaluation-app](https://github.com/shane-kanyi/performance-evaluation-app):** A Kotlin-based project.
 *   **[WebAppQuizGame](https://github.com/shane-kanyi/WebAppQuizGame):** A C#-based web application.
 *   **[ConsoleAppQuizGame](https://github.com/shane-kanyi/ConsoleAppQuizGame):** A C#-based console application.
