@@ -1,16 +1,16 @@
 # Hi there 👋, I'm Shane Kanyi Mushtaq
 
 ## 🚀 About Me
-I'm a motivated and driven Technical Presales Engineer and Solutions Architect with a passion for computer networking, programming, and business solutions. I have a Bachelor's in Business Information Technology from Strathmore University and gaining hands-on experience at Red Dot Distribution.
+I'm a motivated and driven Technical Presales Engineer and Solutions Architect with a passion for computer networking, programming, and business solutions. I have a Bachelor's in Business Information Technology from Strathmore University and gaining hands-on experience at SATH Kenya.
 
-*   🔭 I’m currently working on developing my skills in cloud technologies, particularly Azure and AWS.
+*   🔭 I’m currently working on developing my skills in cloud technologies, particularly Azure and Huawei Cloud.
 *   👯 I’m looking to collaborate on projects involving cloud solutions, automation, and full-stack development.
 *   ⚡ Fun fact: I'm fluent in English and Swahili, with basic knowledge of French and German!
 
 ## 🛠️ My Skills
 
 ### Technical Skills
-*   **Programming Languages:** PHP, Java, Python, SQL, Kotlin, JavaScript
+*   **Programming Languages:** PHP, Java, Python, SQL, Kotlin, JavaScript, C#
 *   **Cloud & DevOps:** Azure, AWS, Terraform, Git, Docker, Github Actions
 *   **Networking:** Packet Tracer, Wireshark
 
